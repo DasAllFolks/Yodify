@@ -16,7 +16,7 @@ This project still under active development is.
 
 If a patch you contribute to seek,
 
-  1. //Use the fork//
+  1. *Use the fork*
   2. Off your master a branch create you must
   3. Into one your commits you must squash
   4. A pull request you must make
